@@ -1,4 +1,4 @@
-## Contributing Guidelines
+<img width="896" height="175" alt="image" src="https://github.com/user-attachments/assets/778639d5-c403-41f1-882e-a8ca309f636d" /><img width="1104" height="175" alt="image" src="https://github.com/user-attachments/assets/9cbb60fc-2978-4916-8700-b7b68f129ba9" />## Contributing Guidelines
 - This doc will contain instructions for you to contribute to this project.
 
 ### Topics Covered
@@ -56,7 +56,55 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 - Overview of the documentation lifecycle
 
 
+#### Group-12: Diagramming and Visual Communication
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| Wasike Hanani Elizabeth   | 2023/BSE/148/PS  |
+| Katusabe Anna             | 2023/BSE/062/PS  |
+| NKAHEBWA CONERIOUS        | 2023/BSE/116/PS  |
+| MASEREKA JUNIOR           | 2023/BSE/076/PS  |
+|Tumuhimbise Peter          | 2023/BSE/157/PS  |
 
+### Introduction
+ -Visual Communicatioon
+ -Diagrams
+ -Use
+**Purpose:**  
+
+Clarify processes and workflows
+Represent system structures
+Communicate relationships and hierachies
+Improve memmory and comprehesion
+---
+
+### Flow Charts
+-Show step-by-step flow and decision points
+-Used for algorithm design, system logic process mapping
+
+***Signifance of Visual Diagrams***
+- **Enhanced Communication and Collaboration**  
+  Diagrams provide a shared understanding for both technical and non-technical stakeholders.  
+  They align teams on design logic and system interactions.
+
+- **Documentation and Decision-Making**  
+  Visuals serve as system references for maintenance and upgrades.  
+  They also aid decision-making on scalability and performance by showing data flow and architecture.
+
+---
+
+***Tools for diagramming***
+-Lucidchart
+-Microsoft Visio
+-Figma
+-Canva
+
+### Examples
+
+- Flowcharts  
+- UML Diagrams  
+- Architectural Diagrams  
+- Screenshots  
+- Diagramming Tools
 
 
 
