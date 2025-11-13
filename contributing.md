@@ -56,7 +56,48 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 - Overview of the documentation lifecycle
 
 
+ 
+**Group-13: Collaboration and Document Control**
 
+**Names and Reg. Numbers**  
+- Mugumya Edwin — 2023/BSE/087/PS  
+- Muhiirwa Enock — 2023/BSE/088/PS  
+- Nahabwe Monic — 2023/BSE/083/PS  
+- Twesigye Tonny — 2023/BSE/147/PS  
+- Ainembabazi Brendah — 2023/BSE/009/PS  
+### Purpose  
+Collaboration and document control ensure consistency, traceability, and quality in software documentation. They enable distributed teams to co-author, review, and manage technical documents efficiently throughout the software development lifecycle.
+
+### Key Aspects  
+
+#### 1. Version Control  
+Establishes systematic tracking of document revisions using tools like Git, GitHub, or GitLab.  
+Each modification is recorded with author, timestamp, and commit message, allowing rollback, comparison, and accountability.
+
+#### 2. Collaborative Editing  
+Promotes simultaneous contributions from developers, editors, and stakeholders using cloud-based tools such as Google Docs, Confluence, and SharePoint.  
+Supports real-time editing, inline commenting, and feedback integration.
+
+#### 3. Change Management  
+Defines the process of submitting, reviewing, approving, and communicating document modifications.  
+Implements Change Requests (CRs), review boards, and revision logs to maintain document integrity and compliance.
+
+#### 4. Document Control Best Practices  
+- Maintain a single master copy in a centralized repository.  
+- Apply clear naming conventions and version numbering.  
+- Record all updates in a change log.  
+- Assign document ownership and approval responsibilities.  
+
+### Importance  
+- Quality Assurance: Ensures documentation remains accurate and up-to-date across project phases.  
+- Traceability: Every change is linked to its author and purpose, enabling full audit trails.  
+- Collaboration Efficiency:Enhances teamwork, reduces duplication, and aligns contributions from multiple stakeholders.  
+- Compliance and Accountability: Meets organizational and industry documentation standards.  
+
+### Examples of Tools and Applications  
+- Version Control: Git, GitHub, GitLab  
+- Co-authoring Tools:Google Docs, Confluence, Microsoft SharePoint  
+- Review Management: Merge/Pull Requests, Inline Comments, Issue Tracking
 
 
 
