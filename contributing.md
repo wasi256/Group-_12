@@ -289,3 +289,17 @@ Collaboration and Document Control are vital for:
 
 Together, they transform documentation from chaos into a controlled, auditable, and collaborative process.
 
+
+####  Group-4: Types of Documentation
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| EMOU MARTIN SHALOM      | 2023/BSE/049/PS  |
+| IKAYO EMMANUEL          | 2023/BSE/050/PS  |
+| AINIMUJUNI YOVAN        | 2023/BSE/158/PS  |
+| OKELLO DAVID            | 2023/BSE/127/PS  |
+| MUWONGE STUART          | 2023/BSE/097/PS  |
+
+### Key Aspects
+- Types of documentation.
+- Copyright and licensing.
+- Standards and Controls.
