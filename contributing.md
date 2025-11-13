@@ -82,7 +82,7 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 | **Name**               | **RegNo**         |
 |-------------------------|------------------|
 | Arinda Jordan           | 2023/BSE/024/PS  |
-| Kihagame Ismael         | 2023/BSE/065/PS  |
+| Kihagama Ismael         | 2023/BSE/065/PS  |
 | Labeja John Baptist     | 2023/BSE/071/PS  |
 | Namanya Mervin          | 2023/BSE/105/PS  |
 | Arinaitwe Allan         | 2023/BSE/160/PS  |
