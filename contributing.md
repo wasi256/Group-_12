@@ -158,3 +158,83 @@ Our presentation explored the essential processes involved in maintaining high-q
 | Tindyebwa Ignatious    | 2023/BSE/143/PS |
 | Bwambale Martin        | 2023/BSE/042/PS |
 
+
+GROUP 7
+Topic:Document Design and Information Architecture
+Group Members
+
+Ainebyoona Micheal   2023/BSE/008/PS
+
+Atuhe Joel           2023/BSE/031/PS
+
+Babirye Proscovia     2023/BSE/038/PS
+
+Nyakato Sheila        2023/BSE/124/PS
+
+Owamaani Mwesigwa     2023/BSE/136/PS
+
+1. Introduction
+
+Document Design and Information Architecture (IA) are two closely related disciplines that focus on how information is structured, organized, and visually presented to enhance communication, understanding, and usability.
+
+Together, they ensure that information is not only well-organized but also visually appealing and easy to access.
+
+2. What is Document Design?
+
+Document Design is the art of structuring content to make it readable, accessible, and visually appealing.
+It determines how information is displayed through layout, typography, color, and spacing.
+
+Key Principles of Document Design
+
+Proximity: Place related elements close together to show their connection.
+
+Contrast: Use variations in size, color, or shape to highlight important elements.
+
+Whitespace: Leave space around text and images to avoid clutter and improve readability.
+
+Alignment: Arrange elements neatly so their edges line up, creating a professional appearance.
+
+Page Layout Guidelines
+
+Fonts: Use only a few fonts. 
+
+Margins: Maintain one-inch margins on all sides.
+
+Headings and Numbering: Use a hierarchical numbering system 
+
+Tables and Figures: Number by section; captions go above tables and below figures.
+
+White Space: Avoid crowding; white space makes reading easier.
+
+Document Design Techniques
+
+Layout: Use grids for alignment and balance.
+
+Typography: Select clear, readable fonts and limit font types for consistency.
+
+Color and Visuals: Use complementary colors and apply visual hierarchy with headings and images.
+
+3. What is Information Architecture (IA)?
+
+Information Architecture is the practice of organizing, structuring, and labeling information so that users can easily find, understand, and use it.
+
+Principles of Information Architecture
+
+Findability: Information should be easy to locate and navigate.
+
+Accessibility: Content must be usable by everyone, including people with disabilities.
+
+Scalability: The structure should support future content growth.
+
+Flexibility: Allow multiple paths (menus, search, tags) to access the same information.
+
+IA Techniques
+
+Content Grouping: Create logical clusters of related information.
+
+Navigation Design: Use menus, breadcrumbs, and search functions.
+
+Labeling Systems: Use clear, descriptive labels for easy understanding.
+
+User Testing: Validate structure and usability with real users.
+
