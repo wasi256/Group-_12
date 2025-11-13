@@ -55,6 +55,30 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 - Challenges of paper-based vs. online docs.
 - Overview of the documentation lifecycle
 
+#### Group-3: Documentation Types and Standards
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| Murungi Kevin Tumaini     | 2023/BSE/094/PS  |
+| Mbabazi Patience          | 2023/BSE/079/PS  |
+| Mwunvaneeza Godfrey   | 2023/BSE/100/PS  |
+| Ainamaani Allan Mwesigye       | 2023/BSE/151/PS  |
+| Ochwo Denis        | 2023/BSE/164/PS  |
+
+### Key Aspects
+
+- **Document Types**  
+  - Code documentation(Inline & API documentation)
+  - Design documentation(Internal & External documentation)
+  - User/Operator documentation(Manuals, Tutorials, etc)
+- **Copyrights and Licensing**  
+  - License Types(Proprietary & Opensource)
+- **Plagiarism**  
+  - Forms of Plagiarism(Direct Copying, Paraphrasing without credit, Mosaic Plagiarism, Self Plagiarism, etc)
+- **Standards**  
+  - IEEE
+  - ISO
+
+---
 
 
 
