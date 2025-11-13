@@ -115,6 +115,29 @@ To ensure software is developed with **quality**, **consistency**, and **reliabi
 ###  Summary
 Software standards provide the **framework for quality software**, ensuring consistency, collaboration, and safety across development.
 
+### Group-08: Document Design and Information Architecture
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| Okiror Mark Gregory     | 2023/BSE/130/PS  |
+| Twesigye John Davidson  | 2023/BSE/146/PS  |
+| Kagyezaho Eduardo       | 2023/BSE/046/PS  |
+| Nimusiima Alvin         | 2023/BSE/112/PS  |
+| Arimu Mariam            | 2023/BSE/021/PS  |
+
+**Purpose:**  
+Explain how to structure, design, and organize technical documentation so that it is clear, consistent, user-friendly, and scalable.
+
+### Key Aspects
+
+The slides highlight several interconnected aspects that together form effective technical documentation:
+
+A. Information Structure
+B. Templates and Style Guides
+C. Consistency
+D. Visual Design Principles
+E. Information Architecture (IA)
+
+
  
 **Group-13: Collaboration and Document Control**
 
