@@ -55,6 +55,26 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 - Challenges of paper-based vs. online docs.
 - Overview of the documentation lifecycle
 
+#### Group-2
+#### Topic Presented
+**Introduction to Technical Documentation — Lecture 1**
+
+### Group Members
+- Mandre Samson — 2025/BSE/075/PS
+- Ogwal Emmanuel — 2025/BSE/163/PS  
+- Emarot Emmanuel — 2025/BSE/048/PS  
+- Ayebare Hillary Bahati — 2025/BSE/035/PS  
+- Kalemba Estine — 2025/BSE/057/PS  
+
+### Short Description
+This presentation covered the fundamentals of technical documentation in software engineering.  
+**Key points included:**
+- Definition and importance of documentation in reducing onboarding time and preserving knowledge.  
+- Major types of documentation (product, system, user, developer, API, process, testing).  
+- Documentation lifecycle and the docs-as-code workflow.  
+- Common tools and formats (Markdown, Sphinx, MkDocs, OpenAPI).  
+- Style, clarity, governance, and common pitfalls to avoid.
+
 #### Group-3: Documentation Types and Standards
 | **Name**               | **RegNo**         |
 |-------------------------|------------------|
