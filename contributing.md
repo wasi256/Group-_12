@@ -42,6 +42,33 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 - Diagramming Tools
 
 
+## Group 15: Editing, Proofreading & Quality Assurance in Technical Documentation
+
+**Topic:**  
+Our presentation explored the essential processes involved in maintaining high-quality technical documentation. We emphasized the three levels of editing—**developmental editing**, **copyediting**, and **proofreading**—and how each contributes to clarity, consistency, and accuracy. Additionally, we discussed the significance of navigational elements like glossaries, indexes, and tables of contents (TOCs), as well as the critical role of Subject Matter Experts (SMEs) and quality assurance tools.
+
+---
+
+### 🧩 Key Aspects Covered
+- **Three Levels of Editing:** Developmental, Copyediting, and Proofreading.  
+- **Navigational Elements:** Glossaries, Indexes, and Tables of Contents for better document usability.  
+- **Technical Accuracy:** The importance of Subject Matter Expert (SME) reviews.  
+- **Tools & Best Practices:** Using tools such as Grammarly, ProWritingAid, and Markdownlint to maintain consistency and accuracy.  
+- **Quality Assurance:** Ensuring professional, polished, and error-free documentation ready for publication.  
+
+---
+
+### 👥 Group Members
+
+| **Name**              | **Registration Number** |
+|------------------------|-------------------------|
+| Kamukama Osbert        | 2023/BSE/058/PS |
+| Ahebwa Faith           | 2023/BSE/006/PS |
+| Kyarimanya Davis       | 2023/BSE/070/PS |
+| Kihembo Daniel         | 2023/BSE/066/PS |
+| Tindyebwa Ignatious    | 2023/BSE/143/PS |
+| Bwambale Martin        | 2023/BSE/042/PS |
+
 
 
 
